@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace WebApp1.Data
+namespace WebRazorApp.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

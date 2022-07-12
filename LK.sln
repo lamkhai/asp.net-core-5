@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LK", "LK\LK.csproj", "{125686B7-18FE-40CD-8039-A89BB9312E79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp1", "WebApp1\WebApp1.csproj", "{C094492C-674A-4517-ABCD-71FA80B75FA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebRazorApp", "WebRazorApp\WebRazorApp.csproj", "{4C89BD64-AD67-4D0B-9033-0DEE06589551}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{125686B7-18FE-40CD-8039-A89BB9312E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{125686B7-18FE-40CD-8039-A89BB9312E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{125686B7-18FE-40CD-8039-A89BB9312E79}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C094492C-674A-4517-ABCD-71FA80B75FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C094492C-674A-4517-ABCD-71FA80B75FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C094492C-674A-4517-ABCD-71FA80B75FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C094492C-674A-4517-ABCD-71FA80B75FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C89BD64-AD67-4D0B-9033-0DEE06589551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C89BD64-AD67-4D0B-9033-0DEE06589551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C89BD64-AD67-4D0B-9033-0DEE06589551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C89BD64-AD67-4D0B-9033-0DEE06589551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
